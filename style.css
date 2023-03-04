@@ -10,10 +10,14 @@ h2 {
   font-family: 'Playfair Display', serif;
 }
 
+h3 {
+  background-color: rgb(234, 154, 181);
+}
+
 .p {
-  color: white;
+  background-color: white;
 }
 
 .body {
-  color: rgb(234, 154, 181);
+  background-color: rgb(234, 154, 181);
 }
