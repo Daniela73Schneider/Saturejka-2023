@@ -10,14 +10,15 @@ h2 {
   font-family: 'Playfair Display', serif;
 }
 
-h3 {
-  background-color: rgb(234, 154, 181);
-}
 
 .p {
+  font-family: Open sans light;
+}
+
+.nabidka {
   background-color: white;
 }
 
-.body {
-  background-color: rgb(234, 154, 181);
+body {
+  text-align: center;
 }
